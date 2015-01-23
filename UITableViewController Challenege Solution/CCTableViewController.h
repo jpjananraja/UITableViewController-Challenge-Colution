@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  CCTableViewController.h
 //  UITableViewController Challenege Solution
 //
 //  Created by Janan Rajaratnam on 1/23/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface CCTableViewController : UITableViewController
 
 @end
-
